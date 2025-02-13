@@ -54,7 +54,7 @@ thiserror = "2.0.11"
 tokio = { version = "1.43.0", features = ["rt", "net"] }
 # change when publishing
 # typify = { version = "0.3.0" }
-typify = { git = "https://github.com/oxidecomputer/typify" }
+typify = { git = "https://github.com/lemvik/typify" }
 url = "2.5.4"
 unicode-ident = "1.0.14"
 uuid = { version = "1.13.1", features = ["serde", "v4"] }
